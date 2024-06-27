@@ -1,0 +1,2 @@
+Data from normal Distribution N(0;1)
+sd = 1
