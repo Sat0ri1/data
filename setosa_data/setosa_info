@@ -1,2 +1,6 @@
 Data extracted from Iris dataset by Fisher
 Dataset contains petal and sepal length of Iris setosa
+
+For purpouses of testing assume:
+population sd for sepal length = 0.36
+population sd for petal length = 0.36
